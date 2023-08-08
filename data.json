@@ -1,0 +1,357 @@
+{
+  "data.csv": {
+    "parent_dir": "Py\\",
+    "type": "<file>",
+    "size": 2017
+  },
+  "data.json": {
+    "parent_dir": "Py\\",
+    "type": "<file>",
+    "size": 6549
+  },
+  "data.pickle": {
+    "parent_dir": "Py\\",
+    "type": "<file>",
+    "size": 2050
+  },
+  "DZ1": {
+    "parent_dir": "Py\\",
+    "type": "<dir>",
+    "size": 4496
+  },
+  "001.py": {
+    "parent_dir": "DZ1\\",
+    "type": "<file>",
+    "size": 361
+  },
+  "002.py": {
+    "parent_dir": "DZ1\\",
+    "type": "<file>",
+    "size": 691
+  },
+  "003.py": {
+    "parent_dir": "DZ1\\",
+    "type": "<file>",
+    "size": 1599
+  },
+  "004.py": {
+    "parent_dir": "DZ1\\",
+    "type": "<file>",
+    "size": 977
+  },
+  "005.py": {
+    "parent_dir": "DZ1\\",
+    "type": "<file>",
+    "size": 868
+  },
+  "DZ2": {
+    "parent_dir": "Py\\",
+    "type": "<dir>",
+    "size": 6396
+  },
+  "006.py": {
+    "parent_dir": "DZ2\\",
+    "type": "<file>",
+    "size": 4137
+  },
+  "007.py": {
+    "parent_dir": "DZ2\\",
+    "type": "<file>",
+    "size": 662
+  },
+  "008.py": {
+    "parent_dir": "DZ2\\",
+    "type": "<file>",
+    "size": 1597
+  },
+  "DZ3": {
+    "parent_dir": "Py\\",
+    "type": "<dir>",
+    "size": 7987
+  },
+  "009.py": {
+    "parent_dir": "DZ3\\",
+    "type": "<file>",
+    "size": 553
+  },
+  "010.py": {
+    "parent_dir": "DZ3\\",
+    "type": "<file>",
+    "size": 2081
+  },
+  "011.py": {
+    "parent_dir": "DZ3\\",
+    "type": "<file>",
+    "size": 1683
+  },
+  "012.py": {
+    "parent_dir": "DZ3\\",
+    "type": "<file>",
+    "size": 1315
+  },
+  "013.py": {
+    "parent_dir": "DZ3\\",
+    "type": "<file>",
+    "size": 2355
+  },
+  "DZ4": {
+    "parent_dir": "Py\\",
+    "type": "<dir>",
+    "size": 6780
+  },
+  "014.py": {
+    "parent_dir": "DZ4\\",
+    "type": "<file>",
+    "size": 629
+  },
+  "015.py": {
+    "parent_dir": "DZ4\\",
+    "type": "<file>",
+    "size": 904
+  },
+  "016.py": {
+    "parent_dir": "DZ4\\",
+    "type": "<file>",
+    "size": 4132
+  },
+  "017.py": {
+    "parent_dir": "DZ4\\",
+    "type": "<file>",
+    "size": 1115
+  },
+  "DZ5": {
+    "parent_dir": "Py\\",
+    "type": "<dir>",
+    "size": 2069
+  },
+  "018.py": {
+    "parent_dir": "DZ5\\",
+    "type": "<file>",
+    "size": 620
+  },
+  "019.py": {
+    "parent_dir": "DZ5\\",
+    "type": "<file>",
+    "size": 956
+  },
+  "020.py": {
+    "parent_dir": "DZ5\\",
+    "type": "<file>",
+    "size": 493
+  },
+  "DZ6": {
+    "parent_dir": "Py\\",
+    "type": "<dir>",
+    "size": 8025
+  },
+  "chkdata.py": {
+    "parent_dir": "DZ6\\",
+    "type": "<file>",
+    "size": 211
+  },
+  "task_021.py": {
+    "parent_dir": "DZ6\\",
+    "type": "<file>",
+    "size": 1894
+  },
+  "task_022.py": {
+    "parent_dir": "DZ6\\",
+    "type": "<file>",
+    "size": 2483
+  },
+  "__pycache__": {
+    "parent_dir": "DZ7\\",
+    "type": "<dir>",
+    "size": 2732
+  },
+  "check_data.cpython-310.pyc": {
+    "parent_dir": "__pycache__\\",
+    "type": "<file>",
+    "size": 1234
+  },
+  "task_021.cpython-310.pyc": {
+    "parent_dir": "__pycache__\\",
+    "type": "<file>",
+    "size": 2203
+  },
+  "DZ7": {
+    "parent_dir": "Py\\",
+    "type": "<dir>",
+    "size": 15018
+  },
+  "dz1_s7t6.py": {
+    "parent_dir": "DZ7\\",
+    "type": "<file>",
+    "size": 1760
+  },
+  "dz2_s7t7.py": {
+    "parent_dir": "DZ7\\",
+    "type": "<file>",
+    "size": 2046
+  },
+  "dz3_s7d1.py": {
+    "parent_dir": "DZ7\\",
+    "type": "<file>",
+    "size": 1949
+  },
+  "s7t1.py": {
+    "parent_dir": "DZ7\\",
+    "type": "<file>",
+    "size": 840
+  },
+  "s7t2.py": {
+    "parent_dir": "DZ7\\",
+    "type": "<file>",
+    "size": 1070
+  },
+  "s7t3.py": {
+    "parent_dir": "DZ7\\",
+    "type": "<file>",
+    "size": 2108
+  },
+  "s7t4.py": {
+    "parent_dir": "DZ7\\",
+    "type": "<file>",
+    "size": 1564
+  },
+  "s7t5.py": {
+    "parent_dir": "DZ7\\",
+    "type": "<file>",
+    "size": 899
+  },
+  "__init__.py": {
+    "parent_dir": "DZ8\\",
+    "type": "<file>",
+    "size": 231
+  },
+  "dz2_s7t7.cpython-310.pyc": {
+    "parent_dir": "__pycache__\\",
+    "type": "<file>",
+    "size": 1372
+  },
+  "s7t4.cpython-310.pyc": {
+    "parent_dir": "__pycache__\\",
+    "type": "<file>",
+    "size": 1131
+  },
+  "__init__.cpython-310.pyc": {
+    "parent_dir": "__pycache__\\",
+    "type": "<file>",
+    "size": 229
+  },
+  "DZ8": {
+    "parent_dir": "Py\\",
+    "type": "<dir>",
+    "size": 10984
+  },
+  "dz1_s8d1.py": {
+    "parent_dir": "DZ8\\",
+    "type": "<file>",
+    "size": 3260
+  },
+  "dz2_s8t4.py": {
+    "parent_dir": "DZ8\\",
+    "type": "<file>",
+    "size": 1475
+  },
+  "dz3_s8t5.py": {
+    "parent_dir": "DZ8\\",
+    "type": "<file>",
+    "size": 777
+  },
+  "dz4_s8t6.py": {
+    "parent_dir": "DZ8\\",
+    "type": "<file>",
+    "size": 1204
+  },
+  "dz5_s8t7.py": {
+    "parent_dir": "DZ8\\",
+    "type": "<file>",
+    "size": 471
+  },
+  "s8t1.py": {
+    "parent_dir": "DZ8\\",
+    "type": "<file>",
+    "size": 1009
+  },
+  "s8t2.py": {
+    "parent_dir": "DZ8\\",
+    "type": "<file>",
+    "size": 1737
+  },
+  "s8t3.py": {
+    "parent_dir": "DZ8\\",
+    "type": "<file>",
+    "size": 820
+  },
+  "ops_list.txt": {
+    "parent_dir": "Py\\",
+    "type": "<file>",
+    "size": 0
+  },
+  "s8t1.json": {
+    "parent_dir": "Py\\",
+    "type": "<file>",
+    "size": 196
+  },
+  "s8t1.pickle": {
+    "parent_dir": "Py\\",
+    "type": "<file>",
+    "size": 145
+  },
+  "s8t2.json": {
+    "parent_dir": "Py\\",
+    "type": "<file>",
+    "size": 269
+  },
+  "s8t2.pickle": {
+    "parent_dir": "Py\\",
+    "type": "<file>",
+    "size": 151
+  },
+  "s8t3.csv": {
+    "parent_dir": "Py\\",
+    "type": "<file>",
+    "size": 94
+  },
+  "s8t4.json": {
+    "parent_dir": "Py\\",
+    "type": "<file>",
+    "size": 788
+  },
+  "s8t6.csv": {
+    "parent_dir": "Py\\",
+    "type": "<file>",
+    "size": 104
+  },
+  "t1.txt": {
+    "parent_dir": "Py\\",
+    "type": "<file>",
+    "size": 150
+  },
+  "t2.txt": {
+    "parent_dir": "Py\\",
+    "type": "<file>",
+    "size": 61
+  },
+  "t3.txt": {
+    "parent_dir": "Py\\",
+    "type": "<file>",
+    "size": 152
+  },
+  "tmp.py": {
+    "parent_dir": "Py\\",
+    "type": "<file>",
+    "size": 3187
+  },
+  "tmp2.py": {
+    "parent_dir": "Py\\",
+    "type": "<file>",
+    "size": 1400
+  },
+  "total_score.txt": {
+    "parent_dir": "Py\\",
+    "type": "<file>",
+    "size": 5
+  }
+}

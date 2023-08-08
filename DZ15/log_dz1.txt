@@ -1,0 +1,7 @@
+INFO:__main__:D:\Обучение в GeekBraims\13. Погружение в Python\Py\DZ15
+INFO:__main__:data(obj_name='dz_s15d1', ext='py', flag='file', parrent_dir='DZ15')
+INFO:__main__:data(obj_name='dz_s15d2_1', ext='py', flag='file', parrent_dir='DZ15')
+INFO:__main__:data(obj_name='log_dz1', ext='txt', flag='file', parrent_dir='DZ15')
+INFO:__main__:data(obj_name='log_dz2', ext='txt', flag='file', parrent_dir='DZ15')
+INFO:__main__:data(obj_name='members', ext='csv', flag='file', parrent_dir='DZ15')
+INFO:__main__:data(obj_name='roots', ext='json', flag='file', parrent_dir='DZ15')
